@@ -1,6 +1,8 @@
 # Práctica 3. Delegados, eventos
 
 ----------
+> Daniel del Castillo de la Rosa
+> 
 > Alejandro Peraza González
 >
 > Universidad de La Laguna
