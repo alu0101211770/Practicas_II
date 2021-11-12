@@ -9,6 +9,8 @@
 
 ## Interacción con la cámara
 
+![Animation](https://user-images.githubusercontent.com/43573083/141443355-ee718fd6-448f-4b0d-9a5d-2ed1b4a2d37b.gif)
+
 En la escena se dispone un cubo con el script [character_controller](scripts/character_controller.cs) que le permite moverse y un espejo con el script [CameraHandler](scripts/CameraHandler.cs).
 
 El funcionamiento del movimiento del jugador está explicado en prácticas anteriores.
