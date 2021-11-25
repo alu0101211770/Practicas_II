@@ -9,5 +9,8 @@
 
 ## Reconocimiento de palabras clave
 
+![Palabras clave](gifs/5.1.gif)
 
 ## Reconocimiento de dictado
+
+![Dictado](gifs/5.2.gif)
