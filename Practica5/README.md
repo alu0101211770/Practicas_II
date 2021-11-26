@@ -1,11 +1,10 @@
 # Práctica 5. Reconocimiento de voz
 
 ----------
-> Alejandro Peraza González
->
-> Universidad de La Laguna
->
-> 25 November 2021
+> Alejandro Peraza González  
+> Universidad de La Laguna  
+> 25 November 2021  
+> [Enlace al repositorio](https://github.com/alu0101211770/Practicas_II/tree/main/Practica5)
 
 ## Reconocimiento de palabras clave
 
